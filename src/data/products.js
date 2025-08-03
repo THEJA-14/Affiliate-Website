@@ -37,7 +37,7 @@
     name: "rts Universal Travel Adapter",
     image: "https://m.media-amazon.com/images/I/611RCy1XjsL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4mno3X5",
-  }
+  },
   {
     id: 7,
     name: "Boldfit Pvc Skipping Rope",
