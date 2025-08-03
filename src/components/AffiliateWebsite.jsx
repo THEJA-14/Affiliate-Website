@@ -90,7 +90,7 @@ const SocialSection = () => (
       
       {/* Telegram */}
       <a
-        href="https://t.me/yourchannel"
+        href="https://t.me/valuevantage05"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center space-x-3 bg-gradient-to-r from-gray-700 to-gray-800 hover:from-blue-600 hover:to-cyan-600 px-6 py-3 rounded-full transition-all duration-300 transform hover:scale-105"
