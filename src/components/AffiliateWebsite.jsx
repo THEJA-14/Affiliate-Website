@@ -25,8 +25,8 @@ const AdSection = ({ position, size = "large" }) => (
     {/* Replace with your AdMob ad unit */}
     <ins className="adsbygoogle"
          style={{display: 'block'}}
-         data-ad-client="ca-app-pub-3188721822997287/7838456326"
-         data-ad-slot="1234567890"
+         data-ad-client="ca-app-pub-3188721822997287"
+         data-ad-slot="7838456326"
          data-ad-format="auto"
          data-full-width-responsive="true"></ins>
     <script>
