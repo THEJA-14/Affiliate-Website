@@ -43,13 +43,20 @@
     name: "Boldfit Pvc Skipping Rope",
     image: "https://m.media-amazon.com/images/I/71c06mz+3oL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4mtVUhs",
-  }
+  },
 {
     id: 8,
     name: "VGRASSP 400 in 1 Mini Video Game",
     image: "https://m.media-amazon.com/images/I/81DL0D0UINL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/40QF6sp",
+  },
+  {
+    id: 9,
+    name: "Nonslip Adjustable Pull-Up Bar",
+    image: "https://m.media-amazon.com/images/I/314kXYs3SeL.jpg",
+    affiliateUrl: "https://amzn.to/4ffPakA",
   }
+ 
 
 ];
 
