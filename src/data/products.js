@@ -46,9 +46,9 @@
   },
 {
     id: 8,
-    name: "VGRASSP 400 in 1 Mini Video Game",
-    image: "https://m.media-amazon.com/images/I/81DL0D0UINL._SL1500_.jpg",
-    affiliateUrl: "https://amzn.to/40QF6sp",
+    name: "Handheld 400 in 1 Mini Video Game Console ",
+    image: "https://m.media-amazon.com/images/I/61m+j+fep7L._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/41k7Aei",
   },
   {
     id: 9,
