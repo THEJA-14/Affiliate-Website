@@ -19,21 +19,21 @@ const SearchBar = ({ searchTerm, onSearchChange }) => (
   </div>
 );
 
-// Ad Component
-// const AdSection = ({ position, size = "large" }) => (
-//   <div className={`my-8 ${size === "large" ? "h-32" : "h-24"}`}>
-//     {/* Replace with your AdMob ad unit */}
-//     <ins className="adsbygoogle"
-//          style={{display: 'block'}}
-//          data-ad-client="ca-app-pub-3188721822997287"
-//          data-ad-slot="7838456326"
-//          data-ad-format="auto"
-//          data-full-width-responsive="true"></ins>
-//     <script>
-//          (adsbygoogle = window.adsbygoogle || []).push({});
-//     </script>
-//   </div>
-// );
+Ad Component
+const AdSection = ({ position, size = "large" }) => (
+  <div className={`my-8 ${size === "large" ? "h-32" : "h-24"}`}>
+    {/* Replace with your AdMob ad unit */}
+    <ins className="adsbygoogle"
+         style={{display: 'block'}}
+         data-ad-client="ca-app-pub-3188721822997287"
+         data-ad-slot="7838456326"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+);
 
 // Product Card Component
 
@@ -170,8 +170,8 @@ const AffiliateWebsite = () => {
         </div>
 
         {/* Bottom Ad Section */}
-        {/* <AdSection position="bottom" />
-      </div> */}
+         <AdSection position="bottom" />
+      </div> 
 
       {/* Affiliate Disclaimer */}
       <div className="bg-gradient-to-r from-purple-50 to-pink-50 border-2 border-gradient-to-r from-gray-200 to-black rounded-2xl p-8 mx-4 mb-8">
