@@ -20,20 +20,20 @@ const SearchBar = ({ searchTerm, onSearchChange }) => (
 );
 
 // Ad Component
-const AdSection = ({ position, size = "large" }) => (
-  <div className={`my-8 ${size === "large" ? "h-32" : "h-24"}`}>
-    {/* Replace with your AdMob ad unit */}
-    <ins className="adsbygoogle"
-         style={{display: 'block'}}
-         data-ad-client="ca-app-pub-3188721822997287"
-         data-ad-slot="7838456326"
-         data-ad-format="auto"
-         data-full-width-responsive="true"></ins>
-    <script>
-         (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-  </div>
-);
+// const AdSection = ({ position, size = "large" }) => (
+//   <div className={`my-8 ${size === "large" ? "h-32" : "h-24"}`}>
+//     {/* Replace with your AdMob ad unit */}
+//     <ins className="adsbygoogle"
+//          style={{display: 'block'}}
+//          data-ad-client="ca-app-pub-3188721822997287"
+//          data-ad-slot="7838456326"
+//          data-ad-format="auto"
+//          data-full-width-responsive="true"></ins>
+//     <script>
+//          (adsbygoogle = window.adsbygoogle || []).push({});
+//     </script>
+//   </div>
+// );
 
 // Product Card Component
 
