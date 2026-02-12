@@ -170,8 +170,8 @@ const AffiliateWebsite = () => {
         </div>
 
         {/* Bottom Ad Section */}
-        <AdSection position="bottom" />
-      </div>
+        {/* <AdSection position="bottom" />
+      </div> */}
 
       {/* Affiliate Disclaimer */}
       <div className="bg-gradient-to-r from-purple-50 to-pink-50 border-2 border-gradient-to-r from-gray-200 to-black rounded-2xl p-8 mx-4 mb-8">
