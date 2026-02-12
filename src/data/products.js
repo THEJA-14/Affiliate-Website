@@ -55,6 +55,12 @@
     name: "Nonslip Adjustable Pull-Up Bar",
     image: "https://m.media-amazon.com/images/I/314kXYs3SeL.jpg",
     affiliateUrl: "https://amzn.to/4ffPakA",
+  },
+  {
+    id: 10,
+    name: "Red Tape Men Pull On Clogs",
+    image: "https://m.media-amazon.com/images/I/61LQb8D0LSL._SY575_.jpg",
+    affiliateUrl: "https://amzn.to/3Oas2dX",
   }
  
 
