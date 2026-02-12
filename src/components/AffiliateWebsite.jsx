@@ -19,7 +19,7 @@ const SearchBar = ({ searchTerm, onSearchChange }) => (
   </div>
 );
 
-Ad Component
+//Ad Component
 const AdSection = ({ position, size = "large" }) => (
   <div className={`my-8 ${size === "large" ? "h-32" : "h-24"}`}>
     {/* Replace with your AdMob ad unit */}
