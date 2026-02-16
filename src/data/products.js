@@ -61,7 +61,14 @@
     name: "Red Tape Men Pull On Clogs",
     image: "https://m.media-amazon.com/images/I/61LQb8D0LSL._SY575_.jpg",
     affiliateUrl: "https://amzn.to/3Oas2dX",
+  },
+  {
+    id: 10,
+    name: "Ambrane USB Desk Fan",
+    image: "https://m.media-amazon.com/images/I/71Hnlig69WL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4aBmAZi",
   }
+  
  
 
 ];
