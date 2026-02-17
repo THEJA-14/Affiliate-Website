@@ -63,10 +63,16 @@
     affiliateUrl: "https://amzn.to/3Oas2dX",
   },
   {
-    id: 10,
+    id: 11,
     name: "Ambrane USB Desk Fan",
     image: "https://m.media-amazon.com/images/I/71Hnlig69WL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4aBmAZi",
+  },
+    {
+    id: 12,
+    name: "Automatic 360 ° Adjustable Water Sprinkler",
+    image: "https://m.media-amazon.com/images/I/71++54RuB-L._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4rlqU5Q",
   }
   
  
