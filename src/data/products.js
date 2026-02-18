@@ -73,6 +73,12 @@
     name: "Automatic 360 ° Adjustable Water Sprinkler",
     image: "https://m.media-amazon.com/images/I/71++54RuB-L._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4rlqU5Q",
+  },
+  {
+    id: 13,
+    name: "Prank Two-Way Water Gun",
+    image: "https://m.media-amazon.com/images/I/419VCaT-kqL.jpg",
+    affiliateUrl: "https://amzn.to/4kHuVip",
   }
   
  
