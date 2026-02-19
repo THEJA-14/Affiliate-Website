@@ -195,10 +195,13 @@ const AffiliateWebsite = () => {
 
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-8">
-        <div className="container mx-auto px-4 text-center">
-          <p className="mb-4">© 2025 ValueVantage. All rights reserved.</p>
-        </div>
-      </footer>
+  <div className="container mx-auto px-4 text-center">
+    <p className="mb-4">
+      © {new Date().getFullYear()} ValueVantage. All rights reserved.
+    </p>
+  </div>
+</footer>
+
     </div>
   );
 };
