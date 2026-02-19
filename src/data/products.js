@@ -22,9 +22,9 @@
   },
   {
     id: 4,
-    name: "ASUS Vivobook 15,13th Gen,Intel Core i5",
-    image: "https://m.media-amazon.com/images/I/71CgmbyKMFL._SL1500_.jpg",
-    affiliateUrl: "https://amzn.to/3HePSC6",
+    name: "Classic Hot Air Fryer ",
+    image: "https://m.media-amazon.com/images/I/51oYlo9Y5sL._SL1000_.jpg",
+    affiliateUrl: "https://amzn.to/4qOgHht",
   },
   {
     id: 5,
