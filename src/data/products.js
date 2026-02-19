@@ -79,6 +79,12 @@
     name: "Prank Two-Way Water Gun",
     image: "https://m.media-amazon.com/images/I/419VCaT-kqL.jpg",
     affiliateUrl: "https://amzn.to/4kHuVip",
+  },
+  {
+    id: 14,
+    name: "Premium Resistance Bands",
+    image: "https://m.media-amazon.com/images/I/61kNjsMGRaL._SL1000_.jpg",
+    affiliateUrl: "https://amzn.to/3OpDGSj",
   }
   
  
