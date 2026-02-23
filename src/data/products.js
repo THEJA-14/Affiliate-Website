@@ -85,6 +85,12 @@
     name: "Premium Resistance Bands",
     image: "https://m.media-amazon.com/images/I/61kNjsMGRaL._SL1000_.jpg",
     affiliateUrl: "https://amzn.to/3OpDGSj",
+  },
+    {
+    id: 15,
+    name: "Pigeon Press Chopper",
+    image: "https://m.media-amazon.com/images/I/716V4se5MUL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4b0CptL",
   }
   
  
