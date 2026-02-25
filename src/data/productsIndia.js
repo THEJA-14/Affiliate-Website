@@ -1,8 +1,7 @@
-// products.js - Add your products here
-// Just add new objects to this array to display them on the website
+// productsIndia.js - Amazon India affiliate links
 
- const products = [
-  {
+export const productsIndia = [
+{
     id: 1,
     name: "NexLev LED Therapy Oil Applicator",
     image: "https://m.media-amazon.com/images/I/51OgjXtg1mL._SL1280_.jpg",
@@ -92,11 +91,4 @@
     image: "https://m.media-amazon.com/images/I/716V4se5MUL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4b0CptL",
   }
-  
- 
-
 ];
-
-
-
-export {products};
