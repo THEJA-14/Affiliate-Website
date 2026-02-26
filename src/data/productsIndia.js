@@ -96,5 +96,11 @@ export const productsIndia = [
     name: "KINGONE iPad Pencil",
     image: "https://m.media-amazon.com/images/I/613jbjQTn8L._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4cPkeZj",
+  },
+    {
+    id: 17,
+    name: "Unicorn Bracelet Making Kit for Girls",
+    image: "https://m.media-amazon.com/images/I/81D3fRnhg7L._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4qYs1HJ",
   }
 ];
