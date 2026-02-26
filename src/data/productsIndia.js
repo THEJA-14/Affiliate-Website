@@ -90,5 +90,11 @@ export const productsIndia = [
     name: "Pigeon Press Chopper",
     image: "https://m.media-amazon.com/images/I/716V4se5MUL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4b0CptL",
+  },
+    {
+    id: 16,
+    name: "KINGONE iPad Pencil",
+    image: "https://m.media-amazon.com/images/I/613jbjQTn8L._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4cPkeZj",
   }
 ];
