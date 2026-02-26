@@ -36,6 +36,12 @@ export const productsUSA = [
     name: "Posture Corrector for Men and Women",
     image: "https://m.media-amazon.com/images/I/618ChFShrdL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4cNxm13"
+  },
+  {
+    id: 7,
+    name: "Metapen A8 iPad Pencil for Apple iPad",
+    image: "https://m.media-amazon.com/images/I/51nliDIEP9L._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tTDafw"
   }
 ];
 
