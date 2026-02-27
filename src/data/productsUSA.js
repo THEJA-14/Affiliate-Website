@@ -42,6 +42,12 @@ export const productsUSA = [
     name: "Metapen A8 iPad Pencil for Apple iPad",
     image: "https://m.media-amazon.com/images/I/51nliDIEP9L._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4tTDafw"
+  },
+  {
+    id: 8,
+    name: "GASLIKE Lock Bed Sheet Holders",
+    image: "https://m.media-amazon.com/images/I/71LpRZWcVUL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4se66gK"
   }
 ];
 
