@@ -102,5 +102,11 @@ export const productsIndia = [
     name: "Unicorn Bracelet Making Kit for Girls",
     image: "https://m.media-amazon.com/images/I/81D3fRnhg7L._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4qYs1HJ",
+  },
+    {
+    id: 18,
+    name: "Bed Sheet Holders",
+    image: "https://m.media-amazon.com/images/I/61KwZPGf25L._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tXfB5B",
   }
 ];
