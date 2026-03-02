@@ -48,6 +48,12 @@ export const productsUSA = [
     name: "GASLIKE Lock Bed Sheet Holders",
     image: "https://m.media-amazon.com/images/I/71LpRZWcVUL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4se66gK"
+  },
+  {
+    id: 9,
+    name: "Waterproof Travel Drawstring Shoe Bags",
+    image: "https://m.media-amazon.com/images/I/616K24V+mkL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4rKgqx1"
   }
 ];
 
