@@ -108,5 +108,11 @@ export const productsIndia = [
     name: "Bed Sheet Holders",
     image: "https://m.media-amazon.com/images/I/61KwZPGf25L._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4tXfB5B",
+  },
+    {
+    id: 19,
+    name: "Boldfit Shoe Bag",
+    image: "https://m.media-amazon.com/images/I/71UlEDZPiCL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3NczFjV",
   }
 ];
