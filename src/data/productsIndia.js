@@ -114,5 +114,11 @@ export const productsIndia = [
     name: "Boldfit Shoe Bag",
     image: "https://m.media-amazon.com/images/I/71UlEDZPiCL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3NczFjV",
+  },
+    {
+    id: 20,
+    name: "Hula Hoop for Adults Weight Loss",
+    image: "https://m.media-amazon.com/images/I/61m2Wd37SOL._SL1280_.jpg",
+    affiliateUrl: "https://amzn.to/4lndxAd",
   }
 ];
