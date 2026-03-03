@@ -120,5 +120,11 @@ export const productsIndia = [
     name: "Hula Hoop for Adults Weight Loss",
     image: "https://m.media-amazon.com/images/I/61m2Wd37SOL._SL1280_.jpg",
     affiliateUrl: "https://amzn.to/4lndxAd",
+  },
+    {
+    id: 21,
+    name: "Travel Organizer Pouch Packing Cubes",
+    image: "https://m.media-amazon.com/images/I/515ok3T9eKL.jpg",
+    affiliateUrl: "https://amzn.to/3N22Oy5",
   }
 ];
