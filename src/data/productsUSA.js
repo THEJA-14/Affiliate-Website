@@ -54,6 +54,12 @@ export const productsUSA = [
     name: "Waterproof Travel Drawstring Shoe Bags",
     image: "https://m.media-amazon.com/images/I/616K24V+mkL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4rKgqx1"
+  },
+  {
+    id: 10,
+    name: "BAGAIL 8 Set Packing Cubes",
+    image: "https://m.media-amazon.com/images/I/61aFuRVWe3L._AC_SL1280_.jpg",
+    affiliateUrl: "https://amzn.to/4cUqBKT"
   }
 ];
 
