@@ -132,5 +132,11 @@ export const productsIndia = [
     name: "Chemist At Play Exfoliating Body Wash",
     image: "https://m.media-amazon.com/images/I/51D62Rx9VjL._SL1000_.jpg",
     affiliateUrl: "https://amzn.to/4cr31Fr",
+  },
+    {
+    id: 23,
+    name: "SOFTSPUN Microfiber Cloth",
+    image: "https://m.media-amazon.com/images/I/81dsWgzXLrL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4lanMaM",
   }
 ];
