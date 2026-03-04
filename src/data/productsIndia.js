@@ -126,5 +126,11 @@ export const productsIndia = [
     name: "Travel Organizer Pouch Packing Cubes",
     image: "https://m.media-amazon.com/images/I/515ok3T9eKL.jpg",
     affiliateUrl: "https://amzn.to/3N22Oy5",
+  },
+    {
+    id: 22,
+    name: "Chemist At Play Exfoliating Body Wash",
+    image: "https://m.media-amazon.com/images/I/51D62Rx9VjL._SL1000_.jpg",
+    affiliateUrl: "https://amzn.to/4cr31Fr",
   }
 ];
