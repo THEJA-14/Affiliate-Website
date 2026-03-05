@@ -60,7 +60,14 @@ export const productsUSA = [
     name: "BAGAIL 8 Set Packing Cubes",
     image: "https://m.media-amazon.com/images/I/61aFuRVWe3L._AC_SL1280_.jpg",
     affiliateUrl: "https://amzn.to/4cUqBKT"
-  }
+  },
+  {
+    id: 11,
+    name: "BAODINI Travel Essentials Mini Umbrella With Case",
+    image: "https://m.media-amazon.com/images/I/71W5orbX6eL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3ON34BL"
+  },
+
 ];
 
 /*
