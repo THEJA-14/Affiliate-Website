@@ -144,5 +144,11 @@ export const productsIndia = [
     name: "UV Travel Mini Folding Umbrella",
     image: "https://m.media-amazon.com/images/I/71RO16WVn1L._SX679_.jpg",
     affiliateUrl: "https://amzn.to/46FzWCw",
+  },
+    {
+    id: 25,
+    name: "Portronics Toad 8 Transparent Wireless Bluetooth Mouse",
+    image: "https://m.media-amazon.com/images/I/61ILLwwQLLL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4brb6sJ",
   }
 ];
