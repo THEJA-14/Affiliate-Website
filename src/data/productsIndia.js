@@ -150,5 +150,11 @@ export const productsIndia = [
     name: "Portronics Toad 8 Transparent Wireless Bluetooth Mouse",
     image: "https://m.media-amazon.com/images/I/61ILLwwQLLL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4brb6sJ",
+  },
+    {
+    id: 26,
+    name: "Organizer for Bathroom and Kitchen Corner Wall",
+    image: "https://m.media-amazon.com/images/I/61d9W1vJjmL._SL1065_.jpg",
+    affiliateUrl: "https://amzn.to/4aQtHyg",
   }
 ];
