@@ -156,5 +156,11 @@ export const productsIndia = [
     name: "Organizer for Bathroom and Kitchen Corner Wall",
     image: "https://m.media-amazon.com/images/I/61d9W1vJjmL._SL1065_.jpg",
     affiliateUrl: "https://amzn.to/4aQtHyg",
+  },
+    {
+    id: 27,
+    name: "Kitchen Tap Extender for Sink",
+    image: "https://m.media-amazon.com/images/I/51hZNngjVYL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/46NSIYp",
   }
 ];
