@@ -67,6 +67,12 @@ export const productsUSA = [
     image: "https://m.media-amazon.com/images/I/71W5orbX6eL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3ON34BL"
   },
+    {
+    id: 12,
+    name: "ProCase Watch Box Organizer",
+    image: "https://m.media-amazon.com/images/I/71hVcz-FTbL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4cC4Qj8"
+  }
 
 ];
 
