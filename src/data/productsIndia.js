@@ -162,5 +162,12 @@ export const productsIndia = [
     name: "Kitchen Tap Extender for Sink",
     image: "https://m.media-amazon.com/images/I/51hZNngjVYL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/46NSIYp",
+  },
+    {
+    id: 28,
+    name: "LEDO Watch Box Holder Organizer Case",
+    image: "https://m.media-amazon.com/images/I/713DaoqZXnL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4bcLxul",
   }
+
 ];
