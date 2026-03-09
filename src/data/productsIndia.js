@@ -168,6 +168,12 @@ export const productsIndia = [
     name: "LEDO Watch Box Holder Organizer Case",
     image: "https://m.media-amazon.com/images/I/713DaoqZXnL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4bcLxul",
+  },
+    {
+    id: 29,
+    name: "Self Adhesive Stainless Steel Wall Hooks",
+    image: "https://m.media-amazon.com/images/I/81H5qMVregL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3OPARua",
   }
 
 ];
