@@ -72,6 +72,12 @@ export const productsUSA = [
     name: "ProCase Watch Box Organizer",
     image: "https://m.media-amazon.com/images/I/71hVcz-FTbL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4cC4Qj8"
+  },
+    {
+    id: 13,
+    name: "Gaiam Cargo Yoga Mat Bag",
+    image: "https://m.media-amazon.com/images/I/71-U7Wgmd1L._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3Nr5TIk"
   }
 
 ];
