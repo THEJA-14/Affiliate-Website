@@ -15,9 +15,9 @@ export const productsIndia = [
   },
   {
     id: 3,
-    name: "Ghar Soaps Sandalwood & Saffron",
-    image: "https://m.media-amazon.com/images/I/71zge8igCIL._SL1500_.jpg",
-    affiliateUrl: "https://amzn.to/4l6AMwk",
+    name: "SPARTAN BS-02 8-in-1 Pc Screw Driver Kit",
+    image: "https://m.media-amazon.com/images/I/811LMdtseGL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4ukT1nz",
   },
   {
     id: 4,
