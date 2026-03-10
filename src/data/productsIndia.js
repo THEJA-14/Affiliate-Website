@@ -174,6 +174,12 @@ export const productsIndia = [
     name: "Self Adhesive Stainless Steel Wall Hooks",
     image: "https://m.media-amazon.com/images/I/81H5qMVregL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3OPARua",
+  },
+    {
+    id: 30,
+    name: "Boldfit Yoga Mat Carry Bag",
+    image: "https://m.media-amazon.com/images/I/51dk1ndVzEL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3NvLG45",
   }
 
 ];
