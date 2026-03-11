@@ -27,9 +27,9 @@ export const productsIndia = [
   },
   {
     id: 5,
-    name: "Men's Cotton Blend Printed Straight Shirt",
-    image: "https://m.media-amazon.com/images/I/51qh1BgUMTL._SX569_.jpg",
-    affiliateUrl: "https://amzn.to/45wQuMM",
+    name: "Nylon 41 Liter Expandable Travel Bag",
+    image: "https://m.media-amazon.com/images/I/71iX4TUkpFL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4b65hRq",
   },
   {
     id: 6,
