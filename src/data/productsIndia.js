@@ -3,9 +3,9 @@
 export const productsIndia = [
 {
     id: 1,
-    name: "NexLev LED Therapy Oil Applicator",
-    image: "https://m.media-amazon.com/images/I/51OgjXtg1mL._SL1280_.jpg",
-    affiliateUrl: "https://amzn.to/45vNNLp",
+    name: "Vintage Floral Embossed Crossbody Bag",
+    image: "https://m.media-amazon.com/images/I/51EZBL26EfL._SX625_.jpg",
+    affiliateUrl: "https://amzn.to/4rrTJwR",
   },
   {
     id: 2,
