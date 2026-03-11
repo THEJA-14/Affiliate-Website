@@ -21,9 +21,9 @@ export const productsIndia = [
   },
   {
     id: 4,
-    name: "Classic Hot Air Fryer ",
-    image: "https://m.media-amazon.com/images/I/51oYlo9Y5sL._SL1000_.jpg",
-    affiliateUrl: "https://amzn.to/4qOgHht",
+    name: "AERYS Digital Alarm Clock",
+    image: "https://m.media-amazon.com/images/I/51MctYF8BiL._SL1100_.jpg",
+    affiliateUrl: "https://amzn.to/4udQyvc",
   },
   {
     id: 5,
