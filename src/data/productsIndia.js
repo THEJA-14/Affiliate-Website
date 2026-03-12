@@ -39,9 +39,9 @@ export const productsIndia = [
   },
   {
     id: 7,
-    name: "Boldfit Pvc Skipping Rope",
-    image: "https://m.media-amazon.com/images/I/71c06mz+3oL._SL1500_.jpg",
-    affiliateUrl: "https://amzn.to/4mtVUhs",
+    name: "Loose Fit Streetwear Casual Top",
+    image: "https://m.media-amazon.com/images/I/6170+arMFmL._SY741_.jpg",
+    affiliateUrl: "https://amzn.to/4rvqaKX",
   },
 {
     id: 8,
