@@ -180,6 +180,12 @@ export const productsIndia = [
     name: "Boldfit Yoga Mat Carry Bag",
     image: "https://m.media-amazon.com/images/I/51dk1ndVzEL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3NvLG45",
+  },
+    {
+    id: 31,
+    name: "AYSIS Premium Modular Plastic Shoe Rack",
+    image: "https://m.media-amazon.com/images/I/61QaDuJi9RL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4sdcHIS",
   }
 
 ];
