@@ -186,6 +186,12 @@ export const productsIndia = [
     name: "AYSIS Premium Modular Plastic Shoe Rack",
     image: "https://m.media-amazon.com/images/I/61QaDuJi9RL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4sdcHIS",
+  },
+    {
+    id: 32,
+    name: "Garden Hose Nozzle Spray Gun",
+    image: "https://m.media-amazon.com/images/I/61+sbvX4HjL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/40tmu1a",
   }
 
 ];
