@@ -192,6 +192,12 @@ export const productsIndia = [
     name: "Garden Hose Nozzle Spray Gun",
     image: "https://m.media-amazon.com/images/I/61+sbvX4HjL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/40tmu1a",
+  },
+    {
+    id: 33,
+    name: "Shining Diva Fashion 5 Pcs Combo",
+    image: "https://m.media-amazon.com/images/I/71R2QnSdv+L._SY575_.jpg",
+    affiliateUrl: "https://amzn.to/40xMfNO",
   }
 
 ];
