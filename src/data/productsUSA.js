@@ -78,7 +78,14 @@ export const productsUSA = [
     name: "Gaiam Cargo Yoga Mat Bag",
     image: "https://m.media-amazon.com/images/I/71-U7Wgmd1L._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3Nr5TIk"
+  },
+    {
+    id: 14,
+    name: "Chefman Electric Kettle",
+    image: "https://m.media-amazon.com/images/I/81hvKNPIHKL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/47MtFFu"
   }
+
 
 ];
 
