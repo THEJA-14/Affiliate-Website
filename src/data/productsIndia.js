@@ -198,6 +198,12 @@ export const productsIndia = [
     name: "Shining Diva Fashion 5 Pcs Combo",
     image: "https://m.media-amazon.com/images/I/71R2QnSdv+L._SY575_.jpg",
     affiliateUrl: "https://amzn.to/40xMfNO",
+  },
+    {
+    id: 34,
+    name: "Amazon Basics Multi-Kettle Steamer",
+    image: "https://m.media-amazon.com/images/I/71fGCgazIUL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/418Homl",
   }
 
 ];
