@@ -84,6 +84,12 @@ export const productsUSA = [
     name: "Chefman Electric Kettle",
     image: "https://m.media-amazon.com/images/I/81hvKNPIHKL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/47MtFFu"
+  },
+    {
+    id: 15,
+    name: "Gym Bag for Men & Women",
+    image: "https://m.media-amazon.com/images/I/81TcYURW40L._AC_SX679_.jpg",
+    affiliateUrl: "https://amzn.to/3NwhzJV"
   }
 
 
