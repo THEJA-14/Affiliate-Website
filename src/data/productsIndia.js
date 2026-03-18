@@ -204,6 +204,12 @@ export const productsIndia = [
     name: "Amazon Basics Multi-Kettle Steamer",
     image: "https://m.media-amazon.com/images/I/71fGCgazIUL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/418Homl",
+  },
+    {
+    id: 35,
+    name: "Gym Bag for Men & Women",
+    image: "https://m.media-amazon.com/images/I/713dtJX3S8L._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4sTKJBL",
   }
 
 ];
