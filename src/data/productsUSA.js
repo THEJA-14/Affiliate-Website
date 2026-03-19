@@ -90,7 +90,14 @@ export const productsUSA = [
     name: "Gym Bag for Men & Women",
     image: "https://m.media-amazon.com/images/I/81TcYURW40L._AC_SX679_.jpg",
     affiliateUrl: "https://amzn.to/3NwhzJV"
+  },
+    {
+    id: 16,
+    name: "LED Desk Lamp",
+    image: "https://m.media-amazon.com/images/I/61lyQoPdMmL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4bArGFF"
   }
+
 
 
 ];
