@@ -210,6 +210,12 @@ export const productsIndia = [
     name: "Gym Bag for Men & Women",
     image: "https://m.media-amazon.com/images/I/713dtJX3S8L._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4sTKJBL",
+  },
+    {
+    id: 36,
+    name: "Kurti sets for Women",
+    image: "src/assets/kurti poster.png",
+    affiliateUrl: "https://affiliate.meesho.com/collection/MTMxOTM3Mzo6Ojo6OmF1dG9kbQ==",
   }
 
 ];
