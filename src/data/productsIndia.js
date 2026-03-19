@@ -214,7 +214,7 @@ export const productsIndia = [
     {
     id: 36,
     name: "Kurti sets for Women",
-    image: "src/assets/kurti poster.png",
+    image: "https://github.com/THEJA-14/Affiliate-Website/blob/048091853d34a35136b5f864b3a27342e1174bb2/src/assets/kurti%20poster.png",
     affiliateUrl: "https://affiliate.meesho.com/collection/MTMxOTM3Mzo6Ojo6OmF1dG9kbQ==",
   }
 
