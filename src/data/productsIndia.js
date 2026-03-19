@@ -1,5 +1,5 @@
 // productsIndia.js - Amazon India affiliate links
-import kurti from '../assets/kurti poster.jpg';
+
 export const productsIndia = [
 {
     id: 1,
