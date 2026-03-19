@@ -214,13 +214,13 @@ export const productsIndia = [
     {
     id: 36,
     name: "Kurti sets for Women",
-    image: "https://github.com/THEJA-14/Affiliate-Website/blob/048091853d34a35136b5f864b3a27342e1174bb2/src/assets/kurti%20poster.png",
+    image: "https://res.cloudinary.com/dpnjzpkqi/image/upload/v1773907438/kurti_poster_r6yzgj.png",
     affiliateUrl: "https://affiliate.meesho.com/collection/MTMxOTM3Mzo6Ojo6OmF1dG9kbQ==",
   },
     {
     id: 37,
     name: "Trendy Tops for Women",
-    image: "https://github.com/THEJA-14/Affiliate-Website/blob/c02721bdc7ace49c2769f713b61cd7ac8ca30fd8/src/assets/tops%20poster.png",
+    image: "https://res.cloudinary.com/dpnjzpkqi/image/upload/v1773907435/tops_poster_hanw29.png",
     affiliateUrl: "https://affiliate.meesho.com/collection/MTMyMzE5Mjo6Ojo6OmF1dG9kbQ==",
   }
 
