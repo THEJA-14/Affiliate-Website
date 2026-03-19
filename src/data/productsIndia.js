@@ -1,5 +1,5 @@
 // productsIndia.js - Amazon India affiliate links
-
+import kurti from '../assets/kurti poster.jpg';
 export const productsIndia = [
 {
     id: 1,
@@ -16,7 +16,7 @@ export const productsIndia = [
   {
     id: 3,
     name: "SPARTAN BS-02 8-in-1 Pc Screw Driver Kit",
-    image: "https://m.media-amazon.com/images/I/811LMdtseGL._SL1500_.jpg",
+    image: "kurti",
     affiliateUrl: "https://amzn.to/4ukT1nz",
   },
   {
