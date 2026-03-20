@@ -222,6 +222,13 @@ export const productsIndia = [
     name: "Trendy Tops for Women",
     image: "https://res.cloudinary.com/dpnjzpkqi/image/upload/v1773907435/tops_poster_hanw29.png",
     affiliateUrl: "https://affiliate.meesho.com/collection/MTMyMzE5Mjo6Ojo6OmF1dG9kbQ==",
+  },
+    {
+    id: 38,
+    name: "Short Kurtis for Women",
+    image: "https://res.cloudinary.com/dpnjzpkqi/image/upload/v1773989247/short_kurti_poster_rtxscv.png",
+    affiliateUrl: "https://affiliate.meesho.com/collection/MTMzMjIxNTo6Ojo6OmF1dG9kbQ==",
   }
+
 
 ];
