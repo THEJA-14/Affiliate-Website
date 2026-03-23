@@ -96,6 +96,12 @@ export const productsUSA = [
     name: "LED Desk Lamp",
     image: "https://m.media-amazon.com/images/I/61lyQoPdMmL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4bArGFF"
+  },
+    {
+    id: 17,
+    name: "Ultra Pain Relief Cooling Pillow for Neck Support",
+    image: "https://m.media-amazon.com/images/I/714COr20AQL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4dFai4Z"
   }
 
 
