@@ -234,6 +234,12 @@ export const productsIndia = [
     name: "Stylish Tops for Women",
     image: "https://res.cloudinary.com/dpnjzpkqi/image/upload/v1774241362/tops_atdgsm.png",
     affiliateUrl: "https://affiliate.meesho.com/collection/MTM1Nzk0MTo6Ojo6OmF1dG9kbQ==",
+  },
+    {
+    id: 40,
+    name: "CareFoam Memory Foam Cervical Neck Pillow",
+    image: "https://m.media-amazon.com/images/I/51iOIPuNN5L._SL1080_.jpg",
+    affiliateUrl: "https://amzn.to/4bICjGg",
   }
 
 
