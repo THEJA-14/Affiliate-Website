@@ -240,6 +240,12 @@ export const productsIndia = [
     name: "CareFoam Memory Foam Cervical Neck Pillow",
     image: "https://m.media-amazon.com/images/I/51iOIPuNN5L._SL1080_.jpg",
     affiliateUrl: "https://amzn.to/4bICjGg",
+  },
+    {
+    id: 41,
+    name: "Ethnic Kurtis for Women",
+    image: "https://res.cloudinary.com/dpnjzpkqi/image/upload/v1774335075/ChatGPT_Image_Mar_24_2026_10_04_27_AM_teemz1.png",
+    affiliateUrl: "https://affiliate.meesho.com/collection/MjQzMzc2Njo6Ojo6Om5vcm1hbA==",
   }
 
 
