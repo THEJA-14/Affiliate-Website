@@ -246,6 +246,12 @@ export const productsIndia = [
     name: "Ethnic Kurtis for Women",
     image: "https://res.cloudinary.com/dpnjzpkqi/image/upload/v1774335075/ChatGPT_Image_Mar_24_2026_10_04_27_AM_teemz1.png",
     affiliateUrl: "https://affiliate.meesho.com/collection/MjQzMzc2Njo6Ojo6Om5vcm1hbA==",
+  },
+    {
+    id: 42,
+    name: "Orthopedic Lumbar Back Rest for Back Pain Relief",
+    image: "https://m.media-amazon.com/images/I/61dGv-wck1L._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4lP2rE5",
   }
 
 
