@@ -252,7 +252,14 @@ export const productsIndia = [
     name: "Orthopedic Lumbar Back Rest for Back Pain Relief",
     image: "https://m.media-amazon.com/images/I/61dGv-wck1L._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4lP2rE5",
+  },
+    {
+    id: 43,
+    name: "Car Seat Headrest Neck Rest Cushion",
+    image: "https://m.media-amazon.com/images/I/6148KzBxk5L._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4c6t6sF",
   }
+
 
 
 
