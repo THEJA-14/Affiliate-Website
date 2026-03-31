@@ -258,7 +258,14 @@ export const productsIndia = [
     name: "Car Seat Headrest Neck Rest Cushion",
     image: "https://m.media-amazon.com/images/I/6148KzBxk5L._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4c6t6sF",
+  },
+    {
+    id: 44,
+    name: "Pressure Spray Pump (2L)",
+    image: "https://m.media-amazon.com/images/I/51-c6tz3O1L._SL1203_.jpg",
+    affiliateUrl: "https://amzn.to/4sIZJ5C",
   }
+
 
 
 
