@@ -102,6 +102,12 @@ export const productsUSA = [
     name: "Ultra Pain Relief Cooling Pillow for Neck Support",
     image: "https://m.media-amazon.com/images/I/714COr20AQL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4dFai4Z"
+  },
+    {
+    id: 18,
+    name: "MRPAPA 2 Pack Handheld Pump Sprayer",
+    image: "https://m.media-amazon.com/images/I/61gzMG38irL._AC_SL1000_.jpg",
+    affiliateUrl: "https://amzn.to/4uX3V3r"
   }
 
 
