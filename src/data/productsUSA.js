@@ -108,6 +108,12 @@ export const productsUSA = [
     name: "MRPAPA 2 Pack Handheld Pump Sprayer",
     image: "https://m.media-amazon.com/images/I/61gzMG38irL._AC_SL1000_.jpg",
     affiliateUrl: "https://amzn.to/4uX3V3r"
+  },
+    {
+    id: 19,
+    name: "Space Saving Hangers for 48 Clothes",
+    image: "https://m.media-amazon.com/images/I/71SWuFDVllL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/41C9eaP"
   }
 
 
