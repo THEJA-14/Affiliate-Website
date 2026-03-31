@@ -270,7 +270,13 @@ export const productsIndia = [
     name: "Multi Hanger with Swivel Hook 9 Holes",
     image: "https://m.media-amazon.com/images/I/51e97RvFztL._SL1001_.jpg",
     affiliateUrl: "https://amzn.to/48hSeKG",
-  }
+  },
+    {
+    id: 46,
+    name: "Must Have Ethnic Kurta Sets for Women",
+    image: "https://res.cloudinary.com/dpnjzpkqi/image/upload/v1774960056/ChatGPT_Image_Mar_31_2026_04_07_06_PM_x986w3.png",
+    affiliateUrl: "https://affiliate.meesho.com/collection/MTQzNTcxMDo6Ojo6OmF1dG9kbQ==",
+  },
 
 
 
