@@ -264,6 +264,12 @@ export const productsIndia = [
     name: "Pressure Spray Pump (2L)",
     image: "https://m.media-amazon.com/images/I/51-c6tz3O1L._SL1203_.jpg",
     affiliateUrl: "https://amzn.to/4sIZJ5C",
+  },
+    {
+    id: 45,
+    name: "Multi Hanger with Swivel Hook 9 Holes",
+    image: "https://m.media-amazon.com/images/I/51e97RvFztL._SL1001_.jpg",
+    affiliateUrl: "https://amzn.to/48hSeKG",
   }
 
 
