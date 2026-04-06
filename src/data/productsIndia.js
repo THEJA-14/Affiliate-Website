@@ -277,6 +277,13 @@ export const productsIndia = [
     image: "https://res.cloudinary.com/dpnjzpkqi/image/upload/v1774960056/ChatGPT_Image_Mar_31_2026_04_07_06_PM_x986w3.png",
     affiliateUrl: "https://affiliate.meesho.com/collection/MTQzNTcxMDo6Ojo6OmF1dG9kbQ==",
   },
+    {
+    id: 47,
+    name: "Aegon Ice Roller for Face",
+    image: "https://m.media-amazon.com/images/I/61LtYHZNPvL._SL1200_.jpg",
+    affiliateUrl: "https://amzn.to/4sUepin",
+  },
+
 
 
 
