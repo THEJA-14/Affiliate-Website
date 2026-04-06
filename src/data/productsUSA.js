@@ -114,6 +114,12 @@ export const productsUSA = [
     name: "Space Saving Hangers for 48 Clothes",
     image: "https://m.media-amazon.com/images/I/71SWuFDVllL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/41C9eaP"
+  },
+    {
+    id: 20,
+    name: "Ice Roller for Face and Eye",
+    image: "https://m.media-amazon.com/images/I/61-PEU8KgCL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3QmbTmB"
   }
 
 
