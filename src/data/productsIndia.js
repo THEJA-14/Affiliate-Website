@@ -283,7 +283,12 @@ export const productsIndia = [
     image: "https://m.media-amazon.com/images/I/61LtYHZNPvL._SL1200_.jpg",
     affiliateUrl: "https://amzn.to/4sUepin",
   },
-
+    {
+    id: 48,
+    name: "Portronics Clean G 20 in 1 Multipurpose Device Cleaner Cleaning Kit",
+    image: "https://m.media-amazon.com/images/I/61JMOLqY6-L._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tCWi0F",
+  },
 
 
 
