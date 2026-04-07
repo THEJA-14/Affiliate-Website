@@ -120,6 +120,12 @@ export const productsUSA = [
     name: "Ice Roller for Face and Eye",
     image: "https://m.media-amazon.com/images/I/61-PEU8KgCL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3QmbTmB"
+  },
+    {
+    id: 21,
+    name: "20-in-1 Laptop Phone Screen Earbud Cleaning Kit",
+    image: "https://m.media-amazon.com/images/I/71nXdz2TP-L._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/48jBpiB"
   }
 
 
