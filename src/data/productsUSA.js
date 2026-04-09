@@ -126,7 +126,14 @@ export const productsUSA = [
     name: "20-in-1 Laptop Phone Screen Earbud Cleaning Kit",
     image: "https://m.media-amazon.com/images/I/71nXdz2TP-L._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/48jBpiB"
+  },
+    {
+    id: 22,
+    name: "Portable Neck Fan",
+    image: "https://m.media-amazon.com/images/I/61IXyUj4F7L._AC_SL1000_.jpg",
+    affiliateUrl: "https://amzn.to/41o35z1"
   }
+
 
 
 
