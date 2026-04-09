@@ -289,7 +289,12 @@ export const productsIndia = [
     image: "https://m.media-amazon.com/images/I/61JMOLqY6-L._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4tCWi0F",
   },
-
+    {
+    id: 49,
+    name: "TEKCOOL Portable Neck Fan",
+    image: "https://m.media-amazon.com/images/I/61dUUOjtfLL._SL1280_.jpg",
+    affiliateUrl: "https://amzn.to/48BHJC9",
+  },
 
 
 
