@@ -295,6 +295,12 @@ export const productsIndia = [
     image: "https://m.media-amazon.com/images/I/61dUUOjtfLL._SL1280_.jpg",
     affiliateUrl: "https://amzn.to/48BHJC9",
   },
+    {
+    id: 50,
+    name: "Silicone Face Bowl for Ice with Built-In Icetray",
+    image: "https://m.media-amazon.com/images/I/71azR20f8cL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3Qu4jXa",
+  },
 
 
 
