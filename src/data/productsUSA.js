@@ -132,6 +132,12 @@ export const productsUSA = [
     name: "Portable Neck Fan",
     image: "https://m.media-amazon.com/images/I/61IXyUj4F7L._AC_SL1000_.jpg",
     affiliateUrl: "https://amzn.to/41o35z1"
+  },
+    {
+    id: 23,
+    name: "Face Bowl for Ice with Built-in Ice Tray – Collapsible",
+    image: "https://m.media-amazon.com/images/I/71x0FEry2LL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4dDw1un"
   }
 
 
