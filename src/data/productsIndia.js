@@ -301,6 +301,12 @@ export const productsIndia = [
     image: "https://m.media-amazon.com/images/I/71azR20f8cL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3Qu4jXa",
   },
+    {
+    id: 51,
+    name: "4 In 1 Multi-Function Blackhead Whitehead Extractor",
+    image: "https://m.media-amazon.com/images/I/51-2e3bbLuL.jpg",
+    affiliateUrl: "https://amzn.to/3Qikc2V",
+  },
 
 
 
