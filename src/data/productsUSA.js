@@ -138,7 +138,14 @@ export const productsUSA = [
     name: "Face Bowl for Ice with Built-in Ice Tray – Collapsible",
     image: "https://m.media-amazon.com/images/I/71x0FEry2LL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4dDw1un"
+  },
+    {
+    id: 24,
+    name: "Blackhead Remover Vacuum - Professional",
+    image: "https://m.media-amazon.com/images/I/61d9oBa-+wL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tAc4Jn"
   }
+
 
 
 
