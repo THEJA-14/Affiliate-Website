@@ -307,6 +307,12 @@ export const productsIndia = [
     image: "https://m.media-amazon.com/images/I/51-2e3bbLuL.jpg",
     affiliateUrl: "https://amzn.to/3Qikc2V",
   },
+    {
+    id: 52,
+    name: "Microfiber Dusters for Cleaning",
+    image: "https://m.media-amazon.com/images/I/614BSL5MO9L._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4tNlr8V",
+  },
 
 
 
