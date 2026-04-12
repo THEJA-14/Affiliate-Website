@@ -144,6 +144,12 @@ export const productsUSA = [
     name: "Blackhead Remover Vacuum - Professional",
     image: "https://m.media-amazon.com/images/I/61d9oBa-+wL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4tAc4Jn"
+  },
+    {
+    id: 25,
+    name: "12pcs Microfiber Dusters",
+    image: "https://m.media-amazon.com/images/I/81ad8B6Y7DL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/41xMbOy"
   }
 
 
