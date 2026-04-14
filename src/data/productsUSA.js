@@ -150,6 +150,12 @@ export const productsUSA = [
     name: "12pcs Microfiber Dusters",
     image: "https://m.media-amazon.com/images/I/81ad8B6Y7DL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/41xMbOy"
+  },
+    {
+    id: 26,
+    name: "Ziitty Lint Remover for Clothes",
+    image: "https://m.media-amazon.com/images/I/71ic678kgaL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3ODD6kj"
   }
 
 
