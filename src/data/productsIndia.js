@@ -313,6 +313,12 @@ export const productsIndia = [
     image: "https://m.media-amazon.com/images/I/614BSL5MO9L._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4tNlr8V",
   },
+    {
+    id: 53,
+    name: "AGARO Elite Lint Remover with Cord",
+    image: "https://m.media-amazon.com/images/I/71Vs-gtbVcL._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/3PYT7BX",
+  },
 
 
 
