@@ -156,6 +156,12 @@ export const productsUSA = [
     name: "Ziitty Lint Remover for Clothes",
     image: "https://m.media-amazon.com/images/I/71ic678kgaL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3ODD6kj"
+  },
+    {
+    id: 27,
+    name: "304 Stainless Steel Foldable Steam Rinse Strain",
+    image: "https://m.media-amazon.com/images/I/71qSgPT9IOL._AC_SL1000_.jpg",
+    affiliateUrl: "https://amzn.to/3QLABNu"
   }
 
 
