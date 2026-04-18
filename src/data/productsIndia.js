@@ -319,6 +319,12 @@ export const productsIndia = [
     image: "https://m.media-amazon.com/images/I/71Vs-gtbVcL._SL1500_.jpg",
     affiliateUrl: "https://amzn.to/3PYT7BX",
   },
+    {
+    id: 54,
+    name: "Foldable Steam Rinse Deep Frying Basket",
+    image: "https://m.media-amazon.com/images/I/71u8iTQk+aL._SL1194_.jpg",
+    affiliateUrl: "https://amzn.to/4cPy4KS",
+  }
 
 
 
