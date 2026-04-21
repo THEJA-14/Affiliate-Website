@@ -162,6 +162,12 @@ export const productsUSA = [
     name: "304 Stainless Steel Foldable Steam Rinse Strain",
     image: "https://m.media-amazon.com/images/I/71qSgPT9IOL._AC_SL1000_.jpg",
     affiliateUrl: "https://amzn.to/3QLABNu"
+  },
+    {
+    id: 28,
+    name: "VOLTRX Electric Protein Shaker Bottle",
+    image: "https://m.media-amazon.com/images/I/61xY5x1JAkL._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/4cHphJN"
   }
 
 
