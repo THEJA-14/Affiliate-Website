@@ -324,6 +324,12 @@ export const productsIndia = [
     name: "Foldable Steam Rinse Deep Frying Basket",
     image: "https://m.media-amazon.com/images/I/71u8iTQk+aL._SL1194_.jpg",
     affiliateUrl: "https://amzn.to/4cPy4KS",
+  },
+    {
+    id: 55,
+    name: "Portable Electric Juicer Blender Bottle",
+    image: "https://m.media-amazon.com/images/I/21xDzX8ZvVL.jpg",
+    affiliateUrl: "https://amzn.to/4u05P1Y",
   }
 
 
