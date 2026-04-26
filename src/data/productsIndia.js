@@ -330,7 +330,14 @@ export const productsIndia = [
     name: "Portable Electric Juicer Blender Bottle",
     image: "https://m.media-amazon.com/images/I/21xDzX8ZvVL.jpg",
     affiliateUrl: "https://amzn.to/4u05P1Y",
+  },
+    {
+    id: 56,
+    name: "Ninja Blast Portable Cordless Blender",
+    image: "https://m.media-amazon.com/images/I/61BltT9ZT5L._SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/48s8f10",
   }
+
 
 
 
