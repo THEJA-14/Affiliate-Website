@@ -168,6 +168,12 @@ export const productsUSA = [
     name: "VOLTRX Electric Protein Shaker Bottle",
     image: "https://m.media-amazon.com/images/I/61xY5x1JAkL._AC_SL1500_.jpg",
     affiliateUrl: "https://amzn.to/4cHphJN"
+  },
+    {
+    id: 29,
+    name: " Mini Evaporative Air Cooler with 7 Colors LED Light",
+    image: "https://m.media-amazon.com/images/I/71U98QDH3qS._AC_SL1500_.jpg",
+    affiliateUrl: "https://amzn.to/42uMgmr"
   }
 
 
