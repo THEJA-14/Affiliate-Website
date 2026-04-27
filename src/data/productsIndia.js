@@ -39,9 +39,9 @@ export const productsIndia = [
   },
   {
     id: 7,
-    name: "Loose Fit Streetwear Casual Top",
-    image: "https://m.media-amazon.com/images/I/6170+arMFmL._SY741_.jpg",
-    affiliateUrl: "https://amzn.to/4rvqaKX",
+    name: "Mini Cooler for Room Cooling AC",
+    image: "https://m.media-amazon.com/images/I/61sTL8xtw7L._SL1080_.jpg",
+    affiliateUrl: "https://amzn.to/4mT7io9",
   },
 {
     id: 8,
